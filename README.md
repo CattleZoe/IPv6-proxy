@@ -1,3 +1,4 @@
+https://bronya.io/chat-to-api-solving-429/
 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 配置隧道
 首先你要有一个拥有公网IPv4，且防火墙允许ICMP、TCP、6in4协议通过的VPS，大部分的系统应该都是可以的，下文以ubuntu 22.04为例。
