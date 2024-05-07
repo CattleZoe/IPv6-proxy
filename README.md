@@ -30,11 +30,12 @@ curl ipv6.ip.sb
 https://github.com/zbronya/v6-proxy
 
 其他说明
-不限于chatgpt，只要是有ipv6解析的有ip限制的服务都是可以用的
-代理程序是通用的，如果不喜欢TunnelBroker，或者你有其他的/32 /29的地址，也是可以使用的
-代理程序我只在ubuntu 22.04的amd和arm系统上测试过，其他的系统如果有问题可以提issue或者pr
-帮我程序点个star吧
-如果你还没有chat-to-api的项目，也可以试试我的 https://github.com/zbronya/free-chat-to-api
+
+****不限于chatgpt，只要是有ipv6解析的有ip限制的服务都是可以用的
+****代理程序是通用的，如果不喜欢TunnelBroker，或者你有其他的/32 /29的地址，也是可以使用的
+****代理程序我只在ubuntu 22.04的amd和arm系统上测试过，其他的系统如果有问题可以提issue或者pr
+****帮我程序点个star吧
+****如果你还没有chat-to-api的项目，也可以试试我的 https://github.com/zbronya/free-chat-to-api
 
 __________________________________________________________________________________________________________________________________________
 # v6-proxy
